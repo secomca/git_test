@@ -1,0 +1,1 @@
+This is Ricardo Garcia first git proyect
